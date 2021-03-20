@@ -1,0 +1,12 @@
+body {
+  background: rgb(92, 250, 255);
+}
+p {
+  color: rgb(75, 184, 188);
+}
+h1 {
+  font-weight: bold;
+}
+.myImage {
+  background-image: url("Mistyheart.png");
+}
